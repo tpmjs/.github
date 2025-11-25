@@ -1,12 +1,39 @@
-## Hi there 👋
+<div align="center">
 
-<!--
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# TPMJS
+
+**The Tool Package Manager for the AI Era**
+
+[![Status: Active](https://img.shields.io/badge/Status-Active-success.svg?style=for-the-badge&logo=activitypub)](https://github.com/tpmjs)
+
+<br />
+
+### 🚀 It's like NPM, but for AI Tools.
+
+</div>
+
+---
+
+### 🌟 What is TPMJS?
+
+**TPMJS** is building the standard registry and manager for AI-native tools.
+**TPMJS** is here to streamline how Agents and LLMs discover, install, and utilize capabilities.
+
+### ⚡ Why TPMJS?
+
+- **📦 Universal Registry**: A centralized hub for tools, skills, and agent capabilities.
+- **🤖 AI-First Design**: Metadata and interfaces optimized for LLM consumption.
+- **🔌 Seamless Integration**: Drop-in compatibility with major agent frameworks.
+- **🛡️ Secure & Verified**: Trust scores and verification for safe tool execution.
+
+---
+
+<div align="center">
+
+### 🤝 Join the Revolution
+
+We are building the future of AI tooling.
+
+</div>
