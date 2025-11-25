@@ -18,8 +18,8 @@
 
 ### 🌟 What is TPMJS?
 
-**TPMJS** is building the standard registry and manager for AI-native tools.
-**TPMJS** is here to streamline how Agents and LLMs discover, install, and utilize capabilities.
+- **TPMJS** is building the standard registry and manager for AI-native tools.
+- **TPMJS** is here to streamline how Agents and LLMs discover, install, and utilize capabilities.
 
 ### ⚡ Why TPMJS?
 
