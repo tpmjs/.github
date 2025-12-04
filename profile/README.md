@@ -2,7 +2,7 @@
 
 
 
-# TPMJS
+# tpmjs
 
 **The Tool Package Manager for the AI Era**
 
